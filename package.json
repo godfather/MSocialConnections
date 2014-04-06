@@ -1,0 +1,12 @@
+{
+  "name"       : "MSocialConnection",
+  "version"    : "0.1.0",
+  "description": "The easy way to connectio to social media API",
+  "main"       : "index.js",
+  "scripts"    : { "test": "echo \"Error: no test specified\" && exit 1" },
+  "repository" : { "type": "git", "url": "https://github.com/godfather/MSocialConnections.git" },
+  "keywords"   : [ "connection", "facebook", "graph" ],
+  "author"     : {  "name": "Santiago Carmo", "email": "santiagocca@gmail.com", "url": "http://massivestep.com" },
+  "license"    : "Apache 2.0",
+  "bugs"       : { "url": "https://github.com/godfather/MSocialConnections/issues" }
+}
